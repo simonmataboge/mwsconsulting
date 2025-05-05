@@ -1232,7 +1232,7 @@ textarea
 
 
 
-#abouteam
+#aboutteam
 {
     height: 400px;
     margin-top: 50px;
@@ -1240,7 +1240,7 @@ textarea
 }
 
 @media screen and (max-width:1000px ){
-	#abouteam {
+	#aboutteam {
         margin-left: 10px;
         width: 440px;
         height: 560px;margin-top: 50px;
@@ -1248,20 +1248,20 @@ textarea
         
 	}
 }
-.abouteam
+.aboutteam
 {
     margin-left: 160px;
     width: 700px;
 }
 @media screen and (max-width:1000px ){
-	.abouteam {
+	.aboutteam {
 		margin-left: 0px;
         margin-top: 50px;
         width: 490px;
         
 	}
 }
-#abouteam img
+#aboutteam img
 {
     width: 170px;
     height: 200px;
@@ -1269,16 +1269,16 @@ textarea
     border-radius: 5px;
     margin-top: 10px;
 }
-#abouteam img {display: inline-block!important;}
+#aboutteam img {display: inline-block!important;}
 
 @media screen and (max-width:1000px ){
-	#abouteam img {
+	#aboutteam img {
 		height: 200px;
         width: 200px;
         
 	}
 }
-#abouteam h2
+#aboutteam h2
 {
     margin-left: 200px;
     color:;
