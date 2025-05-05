@@ -1232,6 +1232,63 @@ textarea
 
 
 
+
+#abouteam
+{
+    height: 400px;
+    margin-top: 50px;
+    
+}
+
+@media screen and (max-width:1000px ){
+	#abouteam {
+        margin-left: 10px;
+        width: 440px;
+        height: 560px;margin-top: 50px;
+        
+        
+	}
+}
+.abouteam
+{
+    margin-left: 160px;
+    width: 700px;
+}
+@media screen and (max-width:1000px ){
+	.abouteam {
+		margin-left: 0px;
+        margin-top: 50px;
+        width: 490px;
+        
+	}
+}
+#abouteam img
+{
+    width: 170px;
+    height: 200px;
+    margin-left: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+#abouteam img {display: inline-block!important;}
+
+@media screen and (max-width:1000px ){
+	#abouteam img {
+		height: 200px;
+        width: 200px;
+        
+	}
+}
+#abouteam h2
+{
+    margin-left: 200px;
+    color:;
+}
+
+
+
+
+
 #aboutteam
 {
     height: 400px;
