@@ -326,10 +326,10 @@ h2, h1
         
 	}
 }
-services h2
+.services h2
 {
-    margin-left: 450px;
-    margin-top: 50px;
+    margin-left: 160px;
+    margin-top: 0px;
 }
 @media screen and (max-width:1000px ){
 	#services h2 {
@@ -383,7 +383,7 @@ services h2
 }
 @media screen and (max-width:1000px ){
 	.services p{
-		margin-left: 100px;
+		margin-left: 10px;
         
 	}
 }
@@ -443,7 +443,7 @@ services h2
 @media screen and (max-width:1000px ){
 	.services em {
 		display: ;
-        margin-left: 180px;
+        margin-left: 10px;
         
 	}
 }
